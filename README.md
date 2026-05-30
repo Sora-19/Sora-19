@@ -1,10 +1,7 @@
-# Hello World !!👋
-
-<h2 style="text-align:center;">
-  <br>Hello Everyone !!<br>
+<h2 align="center">
+  <br> Hello Everyone !! 👋<br>
   <br> I'm Sora Yanagita, working as a fullstack software engineer.<br>
-  <br>
-    <img src="https://media.tenor.com/hISEFDIW_nEAAAAM/sleepy-doze-off.gif" alt="Pug Coder GIF" width="300">
+  <br> <img src="https://media.tenor.com/hISEFDIW_nEAAAAM/sleepy-doze-off.gif" alt="Pug Coder GIF" width="400">
 </h2> 
 
 <h2 style="text-align:left;">🛠️ Technologies and Tools I use:</h2>
