@@ -35,6 +35,9 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
+<h2 align="left">🌱 My Portfolio:</h2>
+https://beautygarden.pages.dev/
+
 <!--
 **Sora-19/Sora-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
